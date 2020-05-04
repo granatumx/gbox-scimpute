@@ -1,0 +1,9 @@
+id: scImpute
+
+meta:
+  maintainer:
+    name: Wei Vivian Li
+    email: liw@ucla.edu
+
+gboxes:
+  - ./yamls/frontend.yaml
